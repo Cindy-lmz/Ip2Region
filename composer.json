@@ -1,6 +1,7 @@
 {
   "type": "library",
   "name": "topi-cindy/ip2region",
+  "license": "MIT",
   "homepage": "https://github.com/Cindy-lmz/Ip2Region.git",
   "description": "Ip2Region for PHP",
   "authors": [
